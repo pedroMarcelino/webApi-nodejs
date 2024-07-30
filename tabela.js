@@ -18,3 +18,5 @@ const tabela2024 = [
 ];
 
 export default tabela2024;
+
+
